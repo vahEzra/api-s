@@ -6,4 +6,4 @@ if boolean then
   end
 end
 
-servers(false)
+servers(true)
